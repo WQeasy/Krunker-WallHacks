@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Krunker Wall Hacks WQeasy
-// @namespace    
+// @namespace    https://github.com/WQeasy/Krunker-WallHacks
 // @author       WQeasy
 // @match        *://krunker.io/*
 // @run-at       document-start
